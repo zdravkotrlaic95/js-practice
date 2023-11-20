@@ -5,7 +5,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 65%;
   box-sizing: border-box;
 }
 
@@ -49,11 +49,11 @@ body {
   content: 'Neighbour country';
   width: 100%;
   position: absolute;
-  top: -4rem;
+  top: -3rem;
 
   text-align: center;
   font-size: 1.8rem;
-  font-weight: 600;
+  font-weight: 610;
   text-transform: uppercase;
   color: #888;
 }
